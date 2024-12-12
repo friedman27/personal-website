@@ -1,2 +1,2 @@
 # webdev
-Web development projects.
+Web development side project to build myself a website.
