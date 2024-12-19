@@ -1,2 +1,2 @@
-# webdev
-Web development side project to build myself a website.
+# Udemy Web Developer Course
+Took this course to learn web development, with the goal of building myself a website using what I learn.
