@@ -1,2 +1,2 @@
 # Udemy Web Developer Course
-Took this course to learn web development, with the goal of building myself a website using what I learn.
+I wanted to learn front end, so I am building myself a personal website as a side project for fun.
